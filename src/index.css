@@ -18,7 +18,9 @@ code {
   position: relative;
 }
 .custom-tooltip{
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 40px;
   height: 40px;
   position: absolute;
@@ -32,16 +34,16 @@ code {
   -webkit-transition: none !important;
 }
 .custom-tooltip span{
-  display: block;
     width: 100%;
     height: 100%;
     position: absolute;
     top: 0;
     left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
     z-index: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: inline-block;
     cursor: pointer;
     opacity: .7;
     background-repeat: no-repeat;
@@ -50,6 +52,12 @@ code {
     border-radius: 10%;
     -moz-border-radius: 10%;
     -webkit-border-radius: 10%
+}
+
+.custom-tooltip.custom-tooltip-info span{
+  width: 20px;
+  height: 20px;
+  background-image: url(./images/info.svg);
 }
 
 .custom-tooltip span:before, .hotspot span:after {
@@ -179,4 +187,55 @@ code {
 .header-brand__logo{
   width: 50px;
   height: 120px;
+}
+
+.popup-content{
+  padding: 0 !important;
+  border: none !important;
+  max-width: 500px;
+}
+
+.modal{
+  padding: 0;
+  text-align: left;
+}
+.modal .close{
+  position: absolute;
+  z-index: 10;
+  right: 1.5rem;
+  top: auto;
+  margin-top: -0.2rem;
+  color: #ffffff;
+  font-size: 1.8rem;
+  font-weight: bold;
+  height: 10px;
+  line-height: 1;
+  cursor: pointer;
+}
+.modal .close:hover{
+  color: #999;
+}
+.modal .modal-header{
+  position: relative;
+  color: #fff;
+  background-color: #1b1b1b;
+  border-radius: unset;
+  display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1.5rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.modal .modal-content{
+  padding: 1rem 1rem;
+  color: #000;
+  font-size: 1rem;
+  line-height: 1.6;
+  text-align: left;
 }
