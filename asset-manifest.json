@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fs-pannellum/static/css/main.22cbaec3.chunk.css",
-    "main.js": "/fs-pannellum/static/js/main.b9da5531.chunk.js",
-    "main.js.map": "/fs-pannellum/static/js/main.b9da5531.chunk.js.map",
+    "main.js": "/fs-pannellum/static/js/main.1996bc42.chunk.js",
+    "main.js.map": "/fs-pannellum/static/js/main.1996bc42.chunk.js.map",
     "runtime-main.js": "/fs-pannellum/static/js/runtime-main.a3ae1d29.js",
     "runtime-main.js.map": "/fs-pannellum/static/js/runtime-main.a3ae1d29.js.map",
     "static/css/2.428b0737.chunk.css": "/fs-pannellum/static/css/2.428b0737.chunk.css",
     "static/js/2.4c0f180f.chunk.js": "/fs-pannellum/static/js/2.4c0f180f.chunk.js",
     "static/js/2.4c0f180f.chunk.js.map": "/fs-pannellum/static/js/2.4c0f180f.chunk.js.map",
     "index.html": "/fs-pannellum/index.html",
-    "precache-manifest.b4b65f83ae266fdacdd75c3972f5d990.js": "/fs-pannellum/precache-manifest.b4b65f83ae266fdacdd75c3972f5d990.js",
+    "precache-manifest.6c52f4e4dd7690294faa52556ead1c21.js": "/fs-pannellum/precache-manifest.6c52f4e4dd7690294faa52556ead1c21.js",
     "service-worker.js": "/fs-pannellum/service-worker.js",
     "static/css/2.428b0737.chunk.css.map": "/fs-pannellum/static/css/2.428b0737.chunk.css.map",
     "static/css/main.22cbaec3.chunk.css.map": "/fs-pannellum/static/css/main.22cbaec3.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.428b0737.chunk.css",
     "static/js/2.4c0f180f.chunk.js",
     "static/css/main.22cbaec3.chunk.css",
-    "static/js/main.b9da5531.chunk.js"
+    "static/js/main.1996bc42.chunk.js"
   ]
 }
