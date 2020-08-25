@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fs-pannellum/precache-manifest.6c52f4e4dd7690294faa52556ead1c21.js"
+  "/fs-pannellum/precache-manifest.378e13675246b16199aca2f2231f7a97.js"
 );
 
 self.addEventListener('message', (event) => {

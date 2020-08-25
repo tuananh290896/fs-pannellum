@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "029047a14167be7b4e05abace46a8f54",
+    "revision": "8e3714b746757dfa1595272c49618d86",
     "url": "/fs-pannellum/index.html"
   },
   {
-    "revision": "f53ea1f2ecd4868d9f1f",
+    "revision": "70ebf47585bebf220bc6",
     "url": "/fs-pannellum/static/css/2.428b0737.chunk.css"
   },
   {
-    "revision": "cc5c81c9fe9567df6b2a",
-    "url": "/fs-pannellum/static/css/main.22cbaec3.chunk.css"
+    "revision": "240211cd16825e3f337a",
+    "url": "/fs-pannellum/static/css/main.a093fa4f.chunk.css"
   },
   {
-    "revision": "f53ea1f2ecd4868d9f1f",
-    "url": "/fs-pannellum/static/js/2.4c0f180f.chunk.js"
+    "revision": "70ebf47585bebf220bc6",
+    "url": "/fs-pannellum/static/js/2.82f8074f.chunk.js"
   },
   {
-    "revision": "4eba80e21df2e21401f79434de624c20",
-    "url": "/fs-pannellum/static/js/2.4c0f180f.chunk.js.LICENSE.txt"
+    "revision": "d907fa6ae5a6dbe5e235ce5c98ef938d",
+    "url": "/fs-pannellum/static/js/2.82f8074f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc5c81c9fe9567df6b2a",
-    "url": "/fs-pannellum/static/js/main.1996bc42.chunk.js"
+    "revision": "240211cd16825e3f337a",
+    "url": "/fs-pannellum/static/js/main.c464c9b7.chunk.js"
   },
   {
     "revision": "046b95db4e1e1dca3681",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72a889053d04914e041abbbfbd2df534",
     "url": "/fs-pannellum/static/media/icon-walking.72a88905.svg"
+  },
+  {
+    "revision": "82df39f242ac95f075299c635195d5fc",
+    "url": "/fs-pannellum/static/media/info.82df39f2.svg"
   },
   {
     "revision": "9164dab8d0798f57f2aae0f1db7c1c16",

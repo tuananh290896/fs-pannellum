@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/fs-pannellum/static/css/main.22cbaec3.chunk.css",
-    "main.js": "/fs-pannellum/static/js/main.1996bc42.chunk.js",
-    "main.js.map": "/fs-pannellum/static/js/main.1996bc42.chunk.js.map",
+    "main.css": "/fs-pannellum/static/css/main.a093fa4f.chunk.css",
+    "main.js": "/fs-pannellum/static/js/main.c464c9b7.chunk.js",
+    "main.js.map": "/fs-pannellum/static/js/main.c464c9b7.chunk.js.map",
     "runtime-main.js": "/fs-pannellum/static/js/runtime-main.a3ae1d29.js",
     "runtime-main.js.map": "/fs-pannellum/static/js/runtime-main.a3ae1d29.js.map",
     "static/css/2.428b0737.chunk.css": "/fs-pannellum/static/css/2.428b0737.chunk.css",
-    "static/js/2.4c0f180f.chunk.js": "/fs-pannellum/static/js/2.4c0f180f.chunk.js",
-    "static/js/2.4c0f180f.chunk.js.map": "/fs-pannellum/static/js/2.4c0f180f.chunk.js.map",
+    "static/js/2.82f8074f.chunk.js": "/fs-pannellum/static/js/2.82f8074f.chunk.js",
+    "static/js/2.82f8074f.chunk.js.map": "/fs-pannellum/static/js/2.82f8074f.chunk.js.map",
     "index.html": "/fs-pannellum/index.html",
-    "precache-manifest.6c52f4e4dd7690294faa52556ead1c21.js": "/fs-pannellum/precache-manifest.6c52f4e4dd7690294faa52556ead1c21.js",
+    "precache-manifest.378e13675246b16199aca2f2231f7a97.js": "/fs-pannellum/precache-manifest.378e13675246b16199aca2f2231f7a97.js",
     "service-worker.js": "/fs-pannellum/service-worker.js",
     "static/css/2.428b0737.chunk.css.map": "/fs-pannellum/static/css/2.428b0737.chunk.css.map",
-    "static/css/main.22cbaec3.chunk.css.map": "/fs-pannellum/static/css/main.22cbaec3.chunk.css.map",
-    "static/js/2.4c0f180f.chunk.js.LICENSE.txt": "/fs-pannellum/static/js/2.4c0f180f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/fs-pannellum/static/media/icon-walking.72a88905.svg",
+    "static/css/main.a093fa4f.chunk.css.map": "/fs-pannellum/static/css/main.a093fa4f.chunk.css.map",
+    "static/js/2.82f8074f.chunk.js.LICENSE.txt": "/fs-pannellum/static/js/2.82f8074f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fs-pannellum/static/media/info.82df39f2.svg",
     "static/media/pannellum.css": "/fs-pannellum/static/media/sprites.f37aa8ca.svg",
     "static/media/logo.png": "/fs-pannellum/static/media/logo.9164dab8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a3ae1d29.js",
     "static/css/2.428b0737.chunk.css",
-    "static/js/2.4c0f180f.chunk.js",
-    "static/css/main.22cbaec3.chunk.css",
-    "static/js/main.1996bc42.chunk.js"
+    "static/js/2.82f8074f.chunk.js",
+    "static/css/main.a093fa4f.chunk.css",
+    "static/js/main.c464c9b7.chunk.js"
   ]
 }
