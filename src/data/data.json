@@ -6,25 +6,25 @@
     "yaw": 117,
     "hfov":110,
     "title": "Mason Circle",
-    "image" : "/images/milan.jpg",
+    "image" : "/fs-pannellum/images/milan.jpg",
     "hotSpots": [
         {
             "pitch": -2.1,
             "yaw": 132.9,
             "title": "North View",
-            "image": "/images/img2.jpg"
+            "image": "/fs-pannellum/images/img2.jpg"
         },
         {
             "pitch": -20.1,
             "yaw": 180.5,
             "title": "Street View",
-            "image": "/images/img3.jpeg"
+            "image": "/fs-pannellum/images/img3.jpeg"
         },
         {
             "pitch": -10.1,
             "yaw": 50.9,
             "title": "The Park",
-            "image": "/images/img4.jpeg"
+            "image": "/fs-pannellum/images/img4.jpeg"
         }
     ]
 }
