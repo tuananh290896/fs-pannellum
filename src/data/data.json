@@ -7,7 +7,7 @@
     "hfov":110,
     "title": "Mason Circle",
     "content":"",
-    "image" : "/fs-pannellum/images/milan.jpg",
+    "image" : "/fs-pannellum/images/test/1.JPEG",
     "hotSpots": [
         {
             "type": "sence",
@@ -15,7 +15,25 @@
             "yaw": 132.9,
             "content":"",
             "title": "North View",
-            "image": "/fs-pannellum/images/img2.jpg"
+            "image": "/fs-pannellum/images/test/2.JPEG",
+            "hotSpots": [
+                {
+                    "type": "sence",
+                    "pitch": -10.1,
+                    "yaw": 50.9,
+                    "title": "The River Side",
+                    "content":"",
+                    "image": "/fs-pannellum/images/test/5.JPEG"
+                },
+                {
+                    "type": "info",
+                    "pitch": -10.1,
+                    "yaw": 113.9,
+                    "title": "Info View",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae laoreet augue. Ut pharetra odio fermentum mauris sollicitudin scelerisque. Quisque ut eros neque. Nullam semper arcu ut metus placerat, non feugiat massa maximus.", 
+                    "image": ""
+                }
+            ]
         },
         {
             "type": "sence",
@@ -23,23 +41,25 @@
             "yaw": 180.5,
             "content":"",
             "title": "Street View",
-            "image": "/fs-pannellum/images/img3.jpeg"
-        },
-        {
-            "type": "sence",
-            "pitch": -10.1,
-            "yaw": 50.9,
-            "title": "The Park",
-            "content":"",
-            "image": "/fs-pannellum/images/img4.jpeg"
-        },
-        {
-            "type": "info",
-            "pitch": -10.1,
-            "yaw": 113.9,
-            "title": "Info View",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae laoreet augue. Ut pharetra odio fermentum mauris sollicitudin scelerisque. Quisque ut eros neque. Nullam semper arcu ut metus placerat, non feugiat massa maximus.", 
-            "image": "/fs-pannellum/images/img2.jpg"
-        }
+            "image": "/fs-pannellum/images/test/3.JPEG",
+            "hotSpots": [
+                {
+                    "type": "sence",
+                    "pitch": -10.1,
+                    "yaw": 50.9,
+                    "title": "The Park",
+                    "content":"",
+                    "image": "/fs-pannellum/images/test/4.JPEG"
+                },
+                {
+                    "type": "info",
+                    "pitch": -10.1,
+                    "yaw": 123.9,
+                    "title": "Info View",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae laoreet augue. Ut pharetra odio fermentum mauris sollicitudin scelerisque. Quisque ut eros neque. Nullam semper arcu ut metus placerat, non feugiat massa maximus.", 
+                    "image": ""
+                }
+            ]
+        } 
     ]
 }
