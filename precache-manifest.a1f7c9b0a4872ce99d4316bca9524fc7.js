@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e3714b746757dfa1595272c49618d86",
+    "revision": "c84fbddf249cbc98dd51050e925ab98f",
     "url": "/fs-pannellum/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fs-pannellum/static/css/2.428b0737.chunk.css"
   },
   {
-    "revision": "240211cd16825e3f337a",
+    "revision": "01753301a888a11aab42",
     "url": "/fs-pannellum/static/css/main.a093fa4f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fs-pannellum/static/js/2.82f8074f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "240211cd16825e3f337a",
-    "url": "/fs-pannellum/static/js/main.c464c9b7.chunk.js"
+    "revision": "01753301a888a11aab42",
+    "url": "/fs-pannellum/static/js/main.51ae0e6c.chunk.js"
   },
   {
     "revision": "046b95db4e1e1dca3681",
