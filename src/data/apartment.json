@@ -1,0 +1,97 @@
+[
+    {
+        "id" : 1,
+        "floor": 0,
+        "path" : "/fs-pannellum/images/floor/overview.jpg"
+    },
+    {
+        "id" : 2,
+        "floor": 13,
+        "path" : "/fs-pannellum/images/floor/13.jpg"
+    },
+    {
+        "id" : 3,
+        "floor": 12,
+        "path" : "/fs-pannellum/images/floor/12.jpg",
+        "rooms": [
+            {
+                "id": 1,
+                "num": 1021,
+                "polygon": "236,110 289,123 268,170 217,156",
+                "circle" : {
+                    "cx": 252,
+                    "cy": 139,
+                    "r": 7
+                },
+                "room_text_location": {
+                    "x": 252,
+                    "y": 139
+                },
+                "status_text_location": {
+                    "x": 252,
+                    "y": 149
+                },
+                "status": 0
+            },
+            {
+                "id": 1,
+                "num": 1022,
+                "polygon": "233,64 270,73 253,114 236,110 221,145 197,139",
+                "circle" : {
+                    "cx": 235,
+                    "cy": 107,
+                    "r": 7
+                },
+                "room_text_location": {
+                    "x": 235,
+                    "y": 107
+                },
+                "status_text_location": {
+                    "x": 235,
+                    "y": 117
+                },
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "floor": 11,
+        "path" : "/fs-pannellum/images/floor/11.jpg"
+    },
+    {
+        "id" : 5,
+        "floor": 10,
+        "path" : "/fs-pannellum/images/floor/10.jpg"
+    },
+    {
+        "id" : 6,
+        "floor": 9,
+        "path" : "/fs-pannellum/images/floor/9.jpg"
+    },
+    {
+        "id" : 7,
+        "floor": 8,
+        "path" : "/fs-pannellum/images/floor/8.jpg"
+    },
+    {
+        "id" : 8,
+        "floor": 7,
+        "path" : "/fs-pannellum/images/floor/7.jpg"
+    },
+    {
+        "id" : 9,
+        "floor": 6,
+        "path" : "/fs-pannellum/images/floor/6.jpg"
+    },
+    {
+        "id" : 10,
+        "floor": 5,
+        "path" : "/fs-pannellum/images/floor/5.jpg"
+    },
+    {
+        "id" : 8,
+        "floor": 4,
+        "path" : "/fs-pannellum/images/floor/4.jpg"
+    }
+]

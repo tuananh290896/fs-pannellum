@@ -20,7 +20,6 @@ function App() {
   const [openModal, setOpenModal] = useState(false);
   const [dataModal, setDataModal] = useState({});
 
-
   const renderHotspot = (hotSpotDiv, args) =>{
     hotSpotDiv.classList.add('custom-tooltip');
     if(args.type == TYPE_INFO){
